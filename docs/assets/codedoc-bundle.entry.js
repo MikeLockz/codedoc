@@ -14,20 +14,17 @@ import { tocHighlight } from '/Users/mbp/Development/codedoc/.codedoc/node_modul
 import { postNavSearch } from '/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from '/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
 import { gatherFootnotes } from '/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
+import { reloadOnChange } from '/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js';reloadOnChange();
 import { ToCPrevNext } from '/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { ToCToggle } from '/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
-import { TabSelector } from '/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js';
-import { CollapseControl } from '/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
 
 const components = {
   'honcSvXjPSSlrtEM77iWFw==': ToCPrevNext,
   'hloha6OQHO87YpF5gFTKtg==': ToCToggle,
   's4fL55zy550/zkkoqGoG+A==': DarkModeSwitch,
-  'FSJ6233ft/9918GvXm7Gmg==': ConfigTransport,
-  'MiKG6hnlJXt2NpkoTl8amg==': TabSelector,
-  '+iLQMYOE8N9FsnmsKkhMDg==': CollapseControl
+  'FSJ6233ft/9918GvXm7Gmg==': ConfigTransport
 };
 
 const renderer = getRenderer();

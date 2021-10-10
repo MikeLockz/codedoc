@@ -9,7 +9,7 @@ export const config = /*#__PURE__*/configuration({
   
   page: {
     title: {
-      base: 'Codedoc'                     // --> the base title of your doc pages
+      base: 'LockDev'                     // --> the base title of your doc pages
     }
   },
   
