@@ -1,0 +1,116 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "iOjDdoxRHdz6aNfP8wFaUw=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/content/theme.ts",
+      "hash": "SZtFq4zf/daHeQTQ0vvELg=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "OTi8hPhV7qmX/HlNb55/xA=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "JOCVHDBe1cwPoMqafu8F5g=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "JvsFYmTBsPuRhyKKOwYFLA=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "e0OasnAjf8pqGlOjx6Xppg=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "0/wDdoqKZteKBPDWqJHUzQ=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "v0XOSHKlnh75RI/706aKnA=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "gf7BYs9vmAJ2HNrQlXHoFg=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "6Rf4PxkoK01HXoY7DdMbXw=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "Mc5jKWIkoh0GSJ0Mc/uK6A=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "OMTF3gGIG9QMsPqUn9he8w=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "rq2x0lV4wMfpFiG5a1fueg=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "tdM/WKNeV8ArIbl+oklnLA=="
+    },
+    {
+      "name": "gatherFootnotes",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "htkJmyg8L2ZXb6DdOg9KzA=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "honcSvXjPSSlrtEM77iWFw=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "hloha6OQHO87YpF5gFTKtg=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "s4fL55zy550/zkkoqGoG+A=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "FSJ6233ft/9918GvXm7Gmg=="
+    },
+    {
+      "name": "TabSelector",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "MiKG6hnlJXt2NpkoTl8amg=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "+iLQMYOE8N9FsnmsKkhMDg=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/Users/mbp/Development/codedoc/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "JIWFSgBapSI/aLJ0JHlGzg=="
+  }
+}
